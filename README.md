@@ -78,7 +78,7 @@ jobs:
 [![MOSTAKIM-V2-BOT](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/forks)
 
  
-🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY)**
+🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-MOSTAKIM-V2-BOT/CYBER-BOT-COMMUNITY)**
 
 ------------------
 
@@ -89,12 +89,12 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=*ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+ullash+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴇᴀᴛʜᴇʀ!!*" target="_blank">
+  <a href="https://wa.me/+88018823***52?text=*ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+ullash+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴇᴀᴛʜᴇʀ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
+`🚀 IF YOU WANT MORE ABOUT MOSTAKIM-V2-BOT  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
 
 ---------
 
@@ -103,7 +103,7 @@ jobs:
 
 -----------
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
+`🚀 IF YOU WANT MORE ABOUT MOSTAKIM-V2-BOT  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
 
 ----------
 ## CREATE TALDROVE ACCOUNT
@@ -116,7 +116,7 @@ jobs:
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`🚀 IF YOU WANT TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
+`🚀 IF YOU WANT TO DEPLOY MOSTAKIM-V2-BOT  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
 
 ------------
  
@@ -126,7 +126,7 @@ jobs:
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
+`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY MOSTAKIM-V2-BOT  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
 
 -------------
 
@@ -137,7 +137,7 @@ jobs:
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON KOYEB WITH EASY SETUP 🚀`
+`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY MOSTAKIM-V2-BOT  ON KOYEB WITH EASY SETUP 🚀`
 
 ---------
 
@@ -147,7 +147,7 @@ jobs:
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY MOSTAKIM-V2-BOT   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 --------
 
@@ -175,7 +175,7 @@ jobs:
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY MOSTAKIM-V2-BOT  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
@@ -204,7 +204,7 @@ Each of your contributions has been a great inspiration to me.
 
 ---
 
-### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
+### [🌺 ｢?｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
 
 ### [MOSTAKIM-V2-BOT](https://m.me/j/AbYQ-A0Ntlobleu9/)  
 Heartfelt love and gratitude to all the members of this group as well.  
@@ -214,7 +214,7 @@ May this journey continue with all of you by my side, **In Shaa Allah**.`
 
 ----------
 
-Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
+Thanks For Using MOSTAKIM-V2-BOT
 
 > Release Date : 24/12/2025 at 08.00 
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
