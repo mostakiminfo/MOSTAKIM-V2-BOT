@@ -1,5 +1,5 @@
 ----------
-###  —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️
+###  MOSTAKIM-V2-BOT
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
 ----------
@@ -11,7 +11,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`MOSTAKIM-V2-BOT`" alt="">
 
 <br>
 
@@ -28,7 +28,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>MOSTAKIM-V2-BOT</div>
 
 ------------
 
@@ -75,7 +75,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK CYBER Ullash ッ ](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/forks)
+[![MOSTAKIM-V2-BOT](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/forks)
 
  
 🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY)**
@@ -191,14 +191,14 @@ jobs:
 `I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
 
 ### 🔳 Special Thanks:
-- ✨ CYBER RAJIB  
-- 💡 SHAON AHMED  
-- ⚡ NUZRUL  
-- 🎩 Grandpa EJ  
-- 🛡️ SAHADAT  
-- 🧠 SUJON  
-- 🔧 MAHBUB SHAON  
-- 🌟 NOMAN  
+- ✨ MOSTAKIM
+- 💡 
+- ⚡  
+- 🎩 
+- 🛡️   
+- 🧠 
+- 🔧 
+- 🌟 
 
 Each of your contributions has been a great inspiration to me.
 
@@ -206,7 +206,7 @@ Each of your contributions has been a great inspiration to me.
 
 ### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
 
-### [🌼💋 উ্ঁল্লা্ঁস্ঁ এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/j/AbYQ-A0Ntlobleu9/)  
+### [MOSTAKIM-V2-BOT](https://m.me/j/AbYQ-A0Ntlobleu9/)  
 Heartfelt love and gratitude to all the members of this group as well.  
 ---
 
@@ -216,5 +216,5 @@ May this journey continue with all of you by my side, **In Shaa Allah**.`
 
 Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
 
-> Release Date : 15/04/2025 at 08.00 
+> Release Date : 24/12/2025 at 08.00 
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
