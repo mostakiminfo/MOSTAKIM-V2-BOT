@@ -6,7 +6,7 @@
 ## CLICK <a href="https://youtube.com/@weird.mostakim">HERE IF YOU ARE NEW TO BOTS (YOUTUBE)</a>
 
 
-<img src='https://i.imgur.com/ePDUcck.jpeg'/>
+<img src=''/>
 
 -------
 
