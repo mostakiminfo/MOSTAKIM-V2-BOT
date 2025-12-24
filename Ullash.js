@@ -29,7 +29,7 @@ app.listen(port, () => {
     if (err.code === "EACCES") {
         logger(`Permission denied. Cannot bind to port ${port}.`, "[ Error ]");
     } else {
-        logger(`Server error: ${err.message}`, "[ Error ]");
+        logger(`Server error: ${err.message}`, "[ Erroor ]");
     }
 });
 
